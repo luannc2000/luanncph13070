@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.poison{
+    background-color: brown;
+}
+.flying{
+    background-color: aqua;
+}
+.fairy{
+    background-color: blueviolet;
+}
+.ground{
+    background-color: burlywood;
+}
